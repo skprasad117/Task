@@ -1,0 +1,11 @@
+2022-08-20 22:38:14,490 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-08-20 22:38:14,490 werkzeug INFO [33mPress CTRL+C to quit[0m
+2022-08-20 22:39:11,134 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:39:11] "POST /mongo/insert HTTP/1.1" 200 -
+2022-08-20 22:39:20,261 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:39:20] "POST /mongo/fetch HTTP/1.1" 200 -
+2022-08-20 22:39:49,558 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:39:49] "POST //mongo/delete HTTP/1.1" 200 -
+2022-08-20 22:39:57,857 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:39:57] "POST /mongo/fetch HTTP/1.1" 200 -
+2022-08-20 22:40:16,555 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:40:16] "POST /mongo/update HTTP/1.1" 200 -
+2022-08-20 22:40:25,672 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:40:25] "POST /mongo/fetch HTTP/1.1" 200 -
+2022-08-20 22:41:22,846 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:41:22] "POST /mongo/update HTTP/1.1" 200 -
+2022-08-20 22:41:33,874 werkzeug INFO 127.0.0.1 - - [20/Aug/2022 22:41:33] "POST /mongo/fetch HTTP/1.1" 200 -
